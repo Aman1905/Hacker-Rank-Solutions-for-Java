@@ -14,7 +14,7 @@ public class Solution{
 			
 			
 			
-			System.out.println(n + "*" + i + "=" + n*i);
+			System.out.println(n + " x " + i + " = " + n*i);
 		}
 	}
 }
