@@ -1,5 +1,6 @@
 Solution :-
 
+
 import java.util.*;
 import java.security.*;
 public class Solution {
@@ -13,12 +14,16 @@ public class Solution {
    in.close();
    //String s=???; Complete this line below
 
+
+// Write your code here
+
+
    Scanner sc = new Scanner(System.in);
    
    
    String s = String.valueOf(n);
    
-   
+   // end of my code
 
    
    if (n == Integer.parseInt(s)) {
